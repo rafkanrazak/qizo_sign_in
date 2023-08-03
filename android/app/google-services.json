@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383352111292",
+    "project_id": "qizo-sign-in",
+    "storage_bucket": "qizo-sign-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383352111292:android:7562485f8bc98dc27910b9",
+        "android_client_info": {
+          "package_name": "com.example.qizo_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383352111292-br1237j5o8kdds5tjr9olfr5mhgv3iok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvp6GpMDK-5mvmHgpPUd7x7WvvU2sBFbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383352111292-br1237j5o8kdds5tjr9olfr5mhgv3iok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
